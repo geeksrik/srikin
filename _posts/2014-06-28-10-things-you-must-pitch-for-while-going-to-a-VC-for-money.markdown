@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "10 things you must pitch for while going to a VC for money"
+author: john
+categories: [ VC, funding ]
+image: assets/images/5.jpg
+description: "Something about this post here"
 date:   2014-06-28 04:07:49
-categories: VC, funding
-banner_image: ""
-featured: false
+featured: true
 comments: true
 ---
 
