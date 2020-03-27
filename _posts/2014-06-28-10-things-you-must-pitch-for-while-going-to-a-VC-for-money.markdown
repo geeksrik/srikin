@@ -1,11 +1,11 @@
+
 ---
+
 layout: post
 title:  "10 things you must pitch for while going to a VC for money"
 date:   2014-06-28 04:07:49
-categories: VC, funding
-banner_image: ""
-featured: false
-comments: true
+categories: [ VC, funding ]
+
 ---
 
 <p style="text-align: justify;">I had an email from a friend which contained the below presentation showing what is important when you talk to VC's for getting them to invest on you or your company. I would not want to write too much in detail, but will leave you with the video for you to see and enjoy.</p>
